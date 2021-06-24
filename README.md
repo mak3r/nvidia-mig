@@ -5,9 +5,6 @@
 * Provo lab
 * 10.156.208.97 (hostname virt97)
 
-<!--
-* contact rd-adm@suse.de for problems
--->
 
 ## Setup and configuration
 
