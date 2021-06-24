@@ -1,11 +1,5 @@
 # MIG testing with Rancher
 
-## Test Environment details
-
-* Provo lab
-* 10.156.208.97 (hostname virt97)
-
-
 ## Setup and configuration
 
 ### NVIDIA MIG DRIVER
